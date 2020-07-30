@@ -1,0 +1,22 @@
+id,tipo,domicilio,localidad,estado,medida
+1,1,Salta 23,Avellaneda,1,60
+2,1,Av. belgrano 1190,Lanus,2,100
+3,2,Solier 5678,Quilmes,2,80
+4,1,Pasteur 456,Capital Federal,2,60
+5,1,Av. Huergo 4342,Capital Federal,1,150
+6,2,Solis 12,Quilmes,1,120
+7,2,Ramallo 1122,Lanus,2,80
+8,1,Oyuela 3243,Lomas de Zamora,1,60
+9,1,Lujan 1294,Avellaneda,2,100
+10,2,Deheza 678,Lanus,1,80
+11,1,Suipacha 2312,Lomas de Zamora,2,80
+12,2,Av. Onsari 1928,Lomas de Zamora,2,60
+13,1,Las Flores 223,Quilmes,1,150
+14,2,Brandsen 2312,Avellaneda,1,120
+15,1,Mexico 543,Capital Federal,1,60
+16,2,Peru 321,Capital Federal,2,100
+17,2,Lavalle 3232,Capital Federal,2,120
+18,2,Av. Callao 943,Capital Federal,1,60
+19,1,Montevideo 2311,Quilmes,1,80
+20,1,Av. Dardo Rocha 123,Lanus,2,150
+21,2,Posadas 9871,Lanus,1,120
